@@ -6,6 +6,6 @@ python ./src/main.py --storage_account "YOUR_ACCOUNT_NAME" --storage_key "YOUR_A
 
 Of all of the parameters, the project_id is the hardest to locate.  Navigate to the custom vision portal and select the project which you have created that you wish to copy the images into.  The URL will look like this:
 
-https://www.customvision.ai/projects/{YOUR_PROJECT_ID}d#/manage
+https://www.customvision.ai/projects/{YOUR_PROJECT_ID}#/manage
 
 It'll be a bunch of numbers, letters and hyphens.  That is your project_id.
